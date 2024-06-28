@@ -1,0 +1,46 @@
+.honda-button{
+  background-color: #E76F51;
+  color: white;
+  
+}
+
+.honda-bg{
+  background-color: #264653;
+}
+
+
+/* featured bike section*/
+.honda-grayscale{
+  filter: grayscale(100%);
+}
+
+/* Happy client secton  */
+.honda-heading{
+  color: #E76F51;
+}
+
+.fa-star{
+ color: #E76F51;
+}
+.star{
+  text-align: center;
+}
+
+/* footer */
+.honda-link{
+  text-decoration: none;
+  color: bisque;
+}
+
+.footer-bg{
+  background-color: #0B0D17;
+}
+
+/* bonus section-1  */
+.news-bg{
+  background-color: rgba(127, 112, 185, 0.459);
+}
+.honda-card-hover:hover{
+transform: scale(1.2);
+transition: transform 2s ease-in-out;
+}
